@@ -4,7 +4,7 @@ BLEU score = 30
 Peformance can be improved by training for larger number of Epochs.
 Created an API for the model using FAST API.
 #### Pytorch version used = 1.7.0
-Download the checkpoint from here:*https://drive.google.com/file/d/1pQRyS6yIaKXeTqWn9NNebjeAJU2R931W/view?usp=sharing*
+Download the checkpoint from here: *https://drive.google.com/file/d/1pQRyS6yIaKXeTqWn9NNebjeAJU2R931W/view?usp=sharing*
  
 ## Procedure to run:
 1. Download the checkpoint from the link given.
